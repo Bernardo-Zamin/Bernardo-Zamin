@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Java, C and Python.
+- 🌱 I’m currently learning Java, C, Assembly and Python.
 - 📫 How to reach me: bezamin03@gmail.com
 
 <div>
