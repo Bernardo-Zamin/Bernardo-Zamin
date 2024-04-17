@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Java, C, Haskell, Assembly and Python.
+- 🌱 I’m currently learning Python, Java, C, C++, Go, Haskell and Assembly.
 - 📫 How to reach me: bezamin03@gmail.com
 
 <div>
